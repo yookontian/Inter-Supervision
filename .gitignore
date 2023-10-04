@@ -12,7 +12,7 @@ dist/
 build/
 *.egg
 DocRED/code/
-
+wandb/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
@@ -41,6 +41,7 @@ Thumbs.db
 *.pkl
 *.jsonl
 *.json
+*.arrow
 
 # Model checkpoints and serialized models
 *.h5
